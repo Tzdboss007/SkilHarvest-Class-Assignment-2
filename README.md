@@ -14,6 +14,7 @@ This Data analysis project seeks to generate insight into Skilharvest student in
 - Data Source [Data Source ](#data-source )
 - Tools Used [Tools Used](#tools-used)
 - Data Analysis [Data Analysis](#data-analysis)
+- Findings And Conclusion [Findings And Conclusion](#findings-and-conclusion)
   
 
 
@@ -37,5 +38,6 @@ The tools used for this analysis are listed below
 The primary data was collected during one of the practical classes using google form then the data was cleaned empty cells were filled with the correct inpute aswell as phone numbers with dailing codes were replaced to remove dailing codes also Some of the uncapitalized first letter for inpute like student were corrected, some other basic operation were carried out on the cleaned data this operations includes the addition of conditional colums to the Months columns to help with the sorting of the months in chronological order. 
 
 
-
+## Findings And Conclusion
+From the analysis i discover that there are a total of 44 student  and the highst number of student are within the age range of 25 - 29, also we have 11 maried and 33 single, 23 male 21 female. We have 90 percent of paticipant from nigeria with Ghana,zambia and zimbabwe making up for the rest. there are more student with HND and BSC followed by those with masters degree while Nd and SSCE have the lowest numbers.
 
