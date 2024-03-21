@@ -35,7 +35,7 @@ The tools used for this analysis are listed below
 
 ![](student-data.JPG)
 
-The primary data was collected during one of the practical classes using google form then the data was cleaned empty cells were filled with the correct inpute aswell as phone numbers with dailing codes were replaced to remove dailing codes also Some of the uncapitalized first letter for inpute like student were corrected, some other basic operation were carried out on the cleaned data this operations includes the addition of conditional colums to the Months columns to help with the sorting of the months in chronological order. 
+The primary data was collected during one of the practical classes using google form then the data was cleaned empty cells were filled with the correct inpute aswell as phone numbers with dailing codes were replaced to remove dailing codes. Some of the uncapitalized first letter for inpute like student were corrected, some other basic operation were carried out on the cleaned data this operations includes the addition of conditional columns to the Months columns to help with the sorting of the months in chronological order. 
 
 
 ## Findings And Conclusion
